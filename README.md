@@ -1,3 +1,3 @@
-## djangoproject
-# Django project for SI664
+# djangoproject
+## Django project for SI664
 After you get in, please look at the fund app.
